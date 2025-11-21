@@ -7,7 +7,6 @@
 For support inquiries, please email: **cmb211087@gmail.com**
 
 We typically respond within 24-48 hours.
-
 ---
 
 ## Frequently Asked Questions
