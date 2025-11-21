@@ -64,7 +64,7 @@ Common solutions:
 - **Speech recognition issues**: Check Settings > Privacy > Speech Recognition
 - **App crashes**: Try restarting your device and updating to the latest iOS version
 
-If problems persist, please contact us at support@voiceflowjournal.com
+If problems persist, please contact us at cmb211087@gmail.com 
 
 ### How do I restore my purchase?
 
@@ -88,7 +88,7 @@ VoiceFlow Journal requires:
 
 ## Feature Requests
 
-Have an idea to improve VoiceFlow Journal? We'd love to hear from you! Email us at support@voiceflowjournal.com
+Have an idea to improve VoiceFlow Journal? We'd love to hear from you! Email us at cmb211087@gmail.com 
 
 ---
 
